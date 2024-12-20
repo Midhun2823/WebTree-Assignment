@@ -1,0 +1,6 @@
+1. Download the Zip file form the Github(https://github.com/Midhun2823/WebTree-Assignment).
+2. Extract the zip file (using WinRAR software).
+3. Open the folder using Command Line Interface(CLI) or open the folder in VS code and open terminal at the end by choosing any method either CLI or VS code we should able to see the files(package.json, package-lock.json, ......etc) in the current directory.
+4. Run the Command "npm install".
+5. Run the Command "npm run start".
+6. By default we can able to see the react project in the URL "http://localhost:3000/"
