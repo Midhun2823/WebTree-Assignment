@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WebTree-Assignment/static/css/main.7e6574fc.css",
+    "main.js": "/WebTree-Assignment/static/js/main.d7f19c5f.js",
+    "static/js/488.126cf451.chunk.js": "/WebTree-Assignment/static/js/488.126cf451.chunk.js",
+    "index.html": "/WebTree-Assignment/index.html",
+    "main.7e6574fc.css.map": "/WebTree-Assignment/static/css/main.7e6574fc.css.map",
+    "main.d7f19c5f.js.map": "/WebTree-Assignment/static/js/main.d7f19c5f.js.map",
+    "488.126cf451.chunk.js.map": "/WebTree-Assignment/static/js/488.126cf451.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e6574fc.css",
+    "static/js/main.d7f19c5f.js"
+  ]
+}
